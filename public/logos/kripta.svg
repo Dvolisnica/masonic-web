@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="688.83673"
+   width="692.013"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Royal &amp; Select Masters Emblem.svg"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 426.07501 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="807.60999 : 426.07501 : 1"
+       inkscape:persp3d-origin="403.80499 : 284.05001 : 1"
+       id="perspective2916" />
+    <inkscape:perspective
+       id="perspective2948"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:cx="421.69098"
+     inkscape:cy="611.44368"
+     inkscape:zoom="0.97405052"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     width="807.61px"
+     height="852.15px"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     fit-margin-top="25"
+     fit-margin-left="25"
+     fit-margin-right="25"
+     fit-margin-bottom="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Warstwa 1"
+     id="layer1"
+     transform="translate(-61.47472,-56.36066)">
+    <path
+       d="m 703.29619,592.84148 0,-0.677 -294.90306,-510.80382 -0.69007,0 -294.90209,511.48082 174.35589,0 -19.75058,-42.22185 -81.72299,0 223.38682,-387.53694 223.38812,387.53694 -82.399,0 -19.75353,42.22185 172.99049,0"
+       style="fill:#5d4580;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2832"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 86.47472,384.43453 c 0,0 59.45853,-13.62143 59.45853,-13.62143 l 485.84723,0 10.21472,-54.50752 10.21469,54.50424 65.38144,0.004 c 4.42656,2.1e-4 10.89639,9.02894 10.89639,13.62686 0,4.59794 -6.46983,13.61804 -10.89639,13.61794 l -65.38144,-0.002 -10.21469,54.50751 -10.21472,-54.50751 -485.84723,0"
+       style="fill:#5d4580;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2834"
+       sodipodi:nodetypes="cccccssscccc"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 408.7267,236.64493 c 0,0 26.25039,33.10666 30.77495,53.04017 10.82323,47.68262 -11.62645,146.22511 -11.62645,146.22511 l -8.20229,8.16306 0,29.92135 71.11922,71.41256 -82.06543,174.79022 -82.74598,-174.10015 71.80961,-71.41258 0,-30.6114 -8.20229,-8.16306 c 0,0 -22.65038,-99.03207 -11.63626,-146.90209 4.53959,-19.7302 30.77492,-52.36319 30.77492,-52.36319"
+       style="fill:#5d4580;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2836"
+       sodipodi:nodetypes="cacccccccccaa"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
